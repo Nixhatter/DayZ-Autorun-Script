@@ -8,9 +8,9 @@ https://www.autoitscript.com/site/autoit/
 
 
 #Usage
-Press "Home" to start the script
+Press "<b>Home<b>" to start the script
 
-Press "End" to stop the script
+Press "<b>End<b>" to stop the script
 
 If you have a numpad, watch out that 7 and 1 also start/stop the script.
 
